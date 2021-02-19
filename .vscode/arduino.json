@@ -1,0 +1,6 @@
+{
+    "programmer": "AVR ISP",
+    "board": "arduino:avr:uno",
+    "port": "COM89",
+    "sketch": "telegraph.ino"
+}
